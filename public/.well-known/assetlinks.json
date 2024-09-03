@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "com.Belanja",
+      "package_name": "com.Belanja",
+      "sha256_cert_fingerprints": [
+        "5A:F0:B7:43:7D:EC:02:5E:D3:25:9A:43:31:26:D7:3E:E6:3A:69:D0:99:9B:D7:7B:62:B7:5E:08:C6:DE:4D:15",
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+      ]
+    }
+  }
+]
